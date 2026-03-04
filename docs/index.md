@@ -1,6 +1,6 @@
 # NexXGEN Peptides Documentation
 
-Welcome to the official NexXGEN Peptides documentation portal.
+Welcome to the official NexXGEN research documentation portal.
 
 ## Policies
 
