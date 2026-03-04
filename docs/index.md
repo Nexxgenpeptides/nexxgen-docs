@@ -10,7 +10,9 @@ NexXGEN provides high-purity peptide materials intended strictly for **laborator
 
 - [Peptide Storage Guidelines](peptide-storage.md)
 - [Peptide Stability in Laboratory Research](peptide-stability.md)
+## Research Library
 
+- [Peptide Research Library](research/index.md)
 ---
 
 # Compliance Policies
