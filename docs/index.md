@@ -16,6 +16,8 @@ NexXGEN provides high-purity peptide materials intended strictly for **laborator
 - [Peptide Solvents in Laboratory Research](research/peptide-solvents.md)
 -  [Lyophilized Peptides](research/lyophilized-peptides.md)
 - [Peptide Handling Guidelines](research/peptide-handling.md)
+- [Certificate of Analysis (COA)](research/certificate-of-analysis.md)
+
 
 ## Research Library
 
