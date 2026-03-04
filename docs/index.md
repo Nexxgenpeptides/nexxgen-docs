@@ -5,6 +5,10 @@ Welcome to the official documentation portal for NexXGEN Peptides.
 NexXGEN provides high-purity peptide materials intended strictly for **laboratory research use only (RUO)**.
 
 ---
+## Documentation Index
+
+- [Documentation Sitemap](sitemap.md)
+
 
 # Research Documentation
 
