@@ -9,7 +9,7 @@ All materials supplied by NexXGEN Peptides are provided strictly for **laborator
 ---
 
 ## Peptide Reference Pages
-
+- [Peptide Reference Library](peptides/index.md)
 - GHK-Cu
 - BPC-157
 - TB-500
