@@ -1,17 +1,40 @@
 # NexXGEN Peptides Documentation
 
-Welcome to the official NexXGEN research documentation portal.
+Welcome to the official documentation portal for NexXGEN Peptides.
 
-## Policies
+NexXGEN provides high-purity peptide materials intended strictly for **laboratory research use only (RUO)**.
 
-- [Overview](overview.md)
+---
+
+# Research Documentation
+
+- [Peptide Storage Guidelines](peptide-storage.md)
+- [Peptide Stability in Laboratory Research](peptide-stability.md)
+
+---
+
+# Compliance Policies
+
 - [Research Use Policy](research-use-policy.md)
-- [Compliance Policy](compliance.md)
+- [Compliance Guidelines](compliance.md)
 
-## Company
+---
 
-NexXGEN Peptides provides high-purity research materials intended strictly for laboratory use.
-## Research Documentation
+# Peptide Reference
 
-- [Peptide Storage](peptide-storage.md)
-- [Peptide Stability](peptide-stability.md)
+This section provides scientific reference documentation for peptides commonly used in laboratory research.
+
+Examples include:
+
+- GHK-Cu
+- BPC-157
+- TB-500
+- CJC-1295
+
+---
+
+# Important Notice
+
+All materials supplied by NexXGEN Peptides are intended strictly for **research purposes only**.
+
+They are **not intended for human consumption, veterinary use, medical treatment, cosmetic application, or diagnostic use**.
