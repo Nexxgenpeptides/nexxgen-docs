@@ -18,6 +18,7 @@ NexXGEN provides high-purity peptide materials intended strictly for **laborator
 - [Peptide Handling Guidelines](research/peptide-handling.md)
 - [Certificate of Analysis (COA)](research/certificate-of-analysis.md)
 - [Peptide Aggregation](research/peptide-aggregation.md)
+- [Peptide Sequences and Structure](research/peptide-sequences.md)
 
 ## Research Library
 
