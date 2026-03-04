@@ -1,5 +1,22 @@
 # NexXGEN Peptides Documentation
 
+## About NexXGEN Peptides Documentation
+
+The NexXGEN Peptides documentation portal provides scientific reference information related to peptides used in laboratory research environments.
+
+Topics covered include:
+
+- peptide stability
+- peptide storage
+- peptide reconstitution
+- peptide solubility
+- peptide purity
+- analytical testing methods
+- peptide sequence structure
+
+This documentation is intended for **educational and scientific reference purposes** for laboratory researchers.
+
+All materials supplied by NexXGEN Peptides are strictly for **research use only (RUO)**.
 Welcome to the official documentation portal for NexXGEN Peptides.
 
 NexXGEN provides high-purity peptide materials intended strictly for **laboratory research use only (RUO)**.
